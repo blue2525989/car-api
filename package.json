@@ -1,0 +1,25 @@
+{
+  "name": "car-api",
+  "version": "1.0.0",
+  "description": "API for car-garage vue app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue2525989/car-api.git"
+  },
+  "author": "Jason Bierbrauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blue2525989/car-api/issues"
+  },
+  "homepage": "https://github.com/blue2525989/car-api#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
